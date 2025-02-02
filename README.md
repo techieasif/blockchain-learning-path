@@ -1,5 +1,7 @@
 # Blockchain Learning Path
 
+You can access the web page version of this learning path [here](https://your-github-username.github.io/blockchain-learning-path/).
+
 An opinionated learning path for getting into speed with Blockchain (specially Ethereum). This is a
 work in progress, please open an issue or send a pull request to help improving it.
 
